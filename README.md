@@ -1,4 +1,4 @@
-# RIID-FFN-SAKT
+# RIID-5220-Project
 
 
 Data available from https://www.kaggle.com/c/riiid-test-answer-prediction/overview
